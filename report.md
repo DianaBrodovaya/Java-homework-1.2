@@ -7,14 +7,11 @@
 На тестирование затрачено: 1.5 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/DianaBrodovaya/Java-homework-1.2/issues/1
+* [Банковская карта с не 16-значным номером не проходит валидацию](https://github.com/DianaBrodovaya/Java-homework-1.2/issues/1)
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты*:
-* Баг-репорт https://github.com/DianaBrodovaya/Java-homework-1.2/issues/1
-
-В качестве тестовых данных использовались данные генератора валидных номеров карт https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались данные [генератора валидных номеров карт](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * 4556068923438797 
 * 5158847919811185 
 * 5018120617419499
